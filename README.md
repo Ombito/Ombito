@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
 <h3 align="center">I am passionate towards contributing to open source projects.</h3>
 
-- 🌱 I’m currently learning **Blockchain development particularly decentralized applications (dApps) and smart contracts.**
+- 🌱 I am a **Blockchain developer particularly decentralized applications (dApps) and smart contracts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
