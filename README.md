@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
-<h3 align="center">I am Full-stack developer.</h3>
+<h3 align="center">I am a Full-stack developer.</h3>
 
 - 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.**
 
