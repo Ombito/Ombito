@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
 <h3 align="center">I am a Full-stack developer.</h3>
 
-- 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.**
+- 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.** I believe in the power of collaboration and the impact of open source software in the community. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://linkedin.com/in/alvinombito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinombito" height="30" width="40" /></a> -->
+<!-- <a href="mailto:alvinombito@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinombito" height="30" width="40" /></a> -->
 <!-- </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
