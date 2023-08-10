@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
 <h3 align="center">I am a Full-stack developer.</h3>
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+[I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.** I believe in the power of collaboration and the impact of open source software in the community. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></p>
 
