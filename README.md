@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
-<h3 align="center">I am a Full-stack developer.</h3>
+<h3 align="center">I am an innovative Software Engineer.</h3>
 
-- 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.** I believe in the power of collaboration and the impact of open source software in the community. 
+- 🌱 I am passionate towards **Blockchain Development** particularly decentralized applications (dApps) and smart contracts.
+- 🚀 I believe in the power of collaboration and the impact of open source software in the community. Open source is not just a development model for me, it's a way of giving back and making a positive impact to the tech ecosystem. 
+
+- ⚡ **Fun fact**: My love for coffee knows no bounds and I particularly enjoy white coffee.
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
@@ -12,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombito&show_icons=true&locale=en&layout=compact" alt="ombito" /></p>
 
-<p href="https://github-readme-stats.vercel.app/api?username=Ombito&show_icons=true"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ombito&show_icons=true&locale=en" alt="ombito" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ombito&" alt="ombito" /></p>
 
