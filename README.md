@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
 <h3 align="center">I am an innovative Software Engineer.</h3>
 
-- 🌱 I am passionate towards **Blockchain Development** particularly decentralized applications (dApps) and smart contracts.
+- 🌱 I am passionate towards **Blockchain Development** especially decentralized applications (dApps) and smart contracts.
 - 🚀 I believe in the power of collaboration and the impact of open source software in the community. Open source is not just a development model for me but a way of giving back and making a positive impact to the tech ecosystem. 
 
 - ⚡ **Fun fact**: My love for coffee knows no bounds and I particularly enjoy white coffee.
