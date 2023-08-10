@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
 <h3 align="center">I am a Full-stack developer.</h3>
-<a href="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png"></a>
 
 - 🌱 I am passionate towards **Blockchain development particularly decentralized applications (dApps) and smart contracts.** I believe in the power of collaboration and the impact of open source software in the community. 
 
@@ -17,25 +16,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ombito&" alt="ombito" /></p>
 
 
-
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ombito)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](bazenga@gmail.com)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ombito)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ombito&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Ombito)  
 
 
 
