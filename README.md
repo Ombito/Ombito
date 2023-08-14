@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Ombito.</h1>
-<h3 align="center">I am an Full-Stack Software Developer.</h3>
+<h3 align="center">I am a Full-Stack Software Developer.</h3>
 
 <p>Here's a little bit about me: </p>
 
