@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alvin"/>
  </a>
  <a href="https://twitter.com/cash" target="_blank">
-  <img src="https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=X&logoColor=white" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" />
  </a>
  <a href="https://leetcode.com/Ombito/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-fe4164?style=for-the-badge&logo=leetcode&logoColor=white" alt="alvin" />
+  <img src="https://img.shields.io/badge/Leetcode-F0DB4F?style=for-the-badge&logo=leetcode&logoColor=white" alt="alvin" />
  </a> 
 </p>
 </p>
@@ -34,6 +34,7 @@
 <!-- About Section -->
  # About me
  
+ <p>Here's a little bit about me:</p>
 <p>
  - ❤️ I am passionate towards **Blockchain Development** especially decentralized applications (dApps) and smart contracts. <br/><br/>
  - 🚀 I believe in the power of collaboration and the impact of open source software in the community. Open source is not just a development model for me but a way of giving back and making a             positive impact to the tech ecosystem.<br/><br/>
@@ -46,7 +47,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-F0DB4F?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlinlogoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,7 +63,7 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-2E7EEA?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-F0DB4F?style=for-the-badge&logo=linux&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000??style=for-the-badge&logo=flask&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-2E7EEA?style=for-the-badge&logo=azure&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF4154?style=for-the-badge&logo=laravel&logoColor=white)
