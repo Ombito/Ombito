@@ -35,12 +35,9 @@
  # About me
  
 <p>
-  
  - ❤️ I am passionate towards **Blockchain Development** especially decentralized applications (dApps) and smart contracts. <br/><br/>
  - 🚀 I believe in the power of collaboration and the impact of open source software in the community. Open source is not just a development model for me but a way of giving back and making a             positive impact to the tech ecosystem.<br/><br/>
  - 📧  Reach out anytime: alvinombito@gmail.com<br/><br/>
-
-
 </p>
 
 ## Languages and Tools
@@ -87,7 +84,6 @@
 <a> 
     <a href="https://github.com/Ombito"><img alt="Alvin Ombito's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ombito&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Ombito"><img alt="Alvin Ombito's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ombito&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
 
 
