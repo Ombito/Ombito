@@ -69,7 +69,7 @@
 ![Flask](https://img.shields.io/badge/flask-000000??style=for-the-badge&logo=flask&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-2E7EEA?style=for-the-badge&logo=azure&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-FF4154?style=for-the-badge&logo=laravel&logoColor=white) 
-<br/><br/>
+
 <!-- <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>-->
