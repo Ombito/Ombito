@@ -78,9 +78,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
   </a>
 </p>
-<p style="display: flex;">
-  <img style="display: inline-flex; height: 200px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en&layout=compact" alt="efgh" />
-  <img style="display: inline-flex; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en" alt="efgh" />
+<p>
+  <img style="display: inline-flex; height: 200px; margin-right: 20px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en&layout=compact" alt="efgh" />
+</p>
+<p>
+  <img style="display: inline-flex; height: 200px;" align="center" src="https://github-readme-stats.vercel.app/api?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en" alt="efgh" />
 </p>
 <!--<p align="center">
   <a href="https://github.com/Ombito">
