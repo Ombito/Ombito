@@ -78,7 +78,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt=""/>
   </a>
 </p>
-<div>
+<div style="display: flex; flex-wrap: wrap;">
   <img style="height: 200px; width="49.5%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en&layout=compact" alt="efgh" />
   <img style="height: 200px; width="49.5%;" src="https://github-readme-stats.vercel.app/api?username=Ombito&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&show_icons=true&locale=en" alt="efgh" />
 </div>
