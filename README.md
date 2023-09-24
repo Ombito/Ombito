@@ -38,7 +38,7 @@
 <p>
  - ❤️ I am passionate towards Blockchain Development especially decentralized applications (dApps) and smart contracts. <br/><br/>
  - 💡 I believe in the power of collaboration and the impact of open source software in the community. Open source is not just a development model for me but a way of giving back and making a             positive impact to the tech ecosystem.<br/><br/>
- - 👯 I am interested in participating in projects involving Full-Stack Web and Mobile Development.<br/><br/>
+ - 👨🏾‍💻 I am interested in participating in projects involving Full-Stack Web and Mobile Development.<br/><br/>
  - 📧  Reach out anytime: alvinombito@gmail.com<br/><br/>
 </p>
 
