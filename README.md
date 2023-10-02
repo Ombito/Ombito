@@ -74,7 +74,7 @@
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>-->
 
-| <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombito&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alvin's github stats" /></a> | <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombito&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ombito&show_icons=true&include_all_commits=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Alvin's github stats" /></a> | <a href="https://github.com/Ombito/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ombito&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  /></a> |
 | ------------- | ------------- |
 
 
