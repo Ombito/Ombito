@@ -4,7 +4,7 @@
 
 <h1 align="center">
         <samp> Hey There!, I am
-                <b><a target="_blank" href="https://alvinombito.com">Alvin Ombito</a></b>
+                <b><a target="_blank" href="https://portfolio101-alvin.vercel.app/">Alvin Ombito</a></b>
         </samp>
 </h1>
 <p align="center"> 
